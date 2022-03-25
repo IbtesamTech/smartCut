@@ -1,0 +1,7 @@
+{
+  "name": "Smartcut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
