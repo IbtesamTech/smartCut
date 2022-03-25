@@ -1,0 +1,2 @@
+# smartCut
+A salon management 
