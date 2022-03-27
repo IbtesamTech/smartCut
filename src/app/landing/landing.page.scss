@@ -1,0 +1,26 @@
+
+ion-content {
+--background: url('../../assets/img/background.png') 0 0/100% 100% no-repeat;
+width: 100%;
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.float_left {
+    float: right;
+}
+
+.heading_text {
+    color: white;
+    font-size: 30px;
+}
+
+.detail_text {
+    color: white;
+    font-size: 15px;
+}
+
+.smart_text {
+    color: white;
+    font-size: 40px;
+}
